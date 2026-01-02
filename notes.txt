@@ -1,2 +1,4 @@
-Git Skill Lab practice
+Git Skill Lab 1 practice 
 Feature update completed
+Bug fix tested and merged successfully
+
